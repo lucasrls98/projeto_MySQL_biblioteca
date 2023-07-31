@@ -2,7 +2,9 @@ INSERT INTO genero (nome_genero)
 VALUES
   ('Ficção'),
   ('Finanças'),
-  ('Auto Ajuda');
+  ('Auto Ajuda'),
+  ('Terror'),
+  ('Tecnologia');
 
 INSERT INTO editora (nome_editora, endereco_editora, telefone_editora)
 VALUES
